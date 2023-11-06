@@ -31,7 +31,7 @@ __И наконец хороший docker__
 ```
 FROM debian:bullseye
 
-RUN apt-get update  && apt-get install -y apache2  
+RUN apt-get update  && apt-get install apache2  
 
 COPY index.html /var/www/html/
 
