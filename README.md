@@ -1,1 +1,1 @@
-# lab-2-Oblachnie-voiny
+Devops lab-2-Oblachnie-voiny
